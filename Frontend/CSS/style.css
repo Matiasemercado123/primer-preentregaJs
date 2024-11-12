@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+ul li{
+    list-style: none;
+    margin: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(100, 241, 194, 0.699);
+}
